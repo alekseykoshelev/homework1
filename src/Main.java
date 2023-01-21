@@ -6,5 +6,13 @@ public class Main {
         System.out.println("Привет мир2!");
         System.out.println("Привет мир2!");
         System.out.println("Привет мир2!");
+        System.out.println("Привет мир2!");
+        System.out.println("Привет мир2!");
+        System.out.println("Привет мир2!");
+        System.out.println("Привет мир2!");
+        System.out.println("Привет мир2!");
+        System.out.println("Привет мир2!");
+        System.out.println("Привет мир2!");
+        System.out.println("Привет мир2!");
     }
 }
